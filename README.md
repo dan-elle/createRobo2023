@@ -12,3 +12,6 @@ Using three LEDS and an Arduino, students simulated traffic lights that were lat
 
 ### LED and Microphone:
 Students used multiple LEDS and a microphone, with an Arduino, to create a visual display of sound, similar to an audio spectrum visualizer. The louder the sound created was, the more lights turned on.
+
+### Final Design Project:
+Students built autonomous rovers using DC motors, ultrasonic sensors, and Arduinos. These rovers were built to navigate various terrains in an obstacle course.
